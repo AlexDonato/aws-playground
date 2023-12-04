@@ -14,3 +14,5 @@ Questo è un progetto per giocare con le lambda e testarle in locale
 	- serverless invoke --stage dev --aws-profile aws-alex -f firstLambda
 5. se ho fatto una modifica ad una function e voglio deployare solo quella
    	- serverless deploy --stage dev --aws-profile aws-alex -f firstLambda
+
+Buon divertimento !!!!
